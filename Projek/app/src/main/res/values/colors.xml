@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="gray_300">#FFCCCCCC</color>
+    <color name="gray_700">#FF666666</color>
+    <color name="gray_800">#FF333333</color>
+
+
+    <color name="light_background">#FFFFFF</color>
+    <color name="dark_background">#121212</color>
+    <color name="light_text_primary">#212121</color>
+    <color name="dark_text_primary">#FFFFFF</color>
+    <color name="light_text_secondary">#757575</color>
+    <color name="dark_text_secondary">#BDBDBD</color>
+    <color name="light_card_background">#FFFFFF</color>
+    <color name="dark_card_background">#212121</color>
+    <color name="light_surface">#FFFFFF</color>
+    <color name="dark_surface">#1F1F1F</color>
+
+    <!-- Gray Shades -->
+    <color name="lightGray">#F5F7FA</color>
+    <color name="mediumGray">#808B96</color>
+    <color name="darkGray">#5D6D7E</color>
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#2C74B3</color>
+    <color name="textSecondary">#5D6D7E</color>
+    <color name="textLight">#808B96</color>
+
+    <!-- Card and Background Colors -->
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="appBackground">#F5F7FA</color>
+    <color name="highlightBackground">#E9F0F9</color>
+
+    <!-- Status Colors -->
+    <color name="errorColor">#DF5E5E</color>
+    <color name="errorBackground">#FFEBEE</color>
+
+
+    <!-- Light Theme Colors -->
+    <color name="colorPrimary">#4286f4</color>
+    <color name="colorPrimaryDark">#3269d1</color>
+    <color name="colorAccent">#5c9aff</color>
+    <color name="colorBackground">#f5f5f5</color>
+    <color name="colorSurface">#ffffff</color>
+    <color name="colorOnPrimary">#ffffff</color>
+    <color name="colorOnBackground">#333333</color>
+    <color name="colorError">#D32F2F</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="colorPrimaryDark_dark">#2d5bb9</color>
+    <color name="colorPrimary_dark">#3269d1</color>
+    <color name="colorAccent_dark">#4286f4</color>
+    <color name="colorBackground_dark">#121212</color>
+    <color name="colorSurface_dark">#242424</color>
+    <color name="colorOnPrimary_dark">#ffffff</color>
+    <color name="colorOnBackground_dark">#e0e0e0</color>
+    <color name="colorError_dark">#EF5350</color>
+
+
+    <!-- New modern blue palette -->
+    <color name="blue_accent">#3F8CFF</color>
+    <color name="blue_accent_dark">#2D71D9</color>
+    <color name="blue_accent_light">#66A3FF</color>
+    <color name="teal_accent">#20B6AA</color>
+    <color name="teal_accent_dark">#018F85</color>
+
+
+    <color name="dark_surface_elevated">#242424</color>
+
+    <color name="dark_card_stroke">#3D3D3D</color>
+    <color name="dark_status_bar">#000000</color>
+    <color name="dark_navigation_bar">#1A1A1A</color>
+
+
+    <color name="dark_text_hint">#80FFFFFF</color>  <!-- 50% white -->
+
+    <!-- Accent colors -->
+    <color name="error_color_dark">#CF6679</color>
+    <color name="success_color_dark">#4CAF50</color>
+    <color name="warning_color_dark">#F9A825</color>
+
+    <!-- Ripple effect -->
+    <color name="ripple_dark">#4DFFFFFF</color>  <!-- 30% white -->
+
+    <!-- Bottom navigation selector -->
+    <color name="nav_unselected_dark">#99FFFFFF</color>
+
+</resources>
